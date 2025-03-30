@@ -1,1 +1,1 @@
-docker/.envRAGFLOW_IMAGEinfiniflow/ragflow:v0.17.2-sliminfiniflow/ragflow:nightly-slim
+docker/.envRAGFLOW_IMAGEinfiniflow/ragflow:v0.16.0-sliminfiniflow/ragflow:nightly-slim
