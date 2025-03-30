@@ -1,1 +1,1 @@
-m.daocloud.io/docker.io/infiniflow/ragflow_deps:latest 
+docker.m.daocloud/.envRAGFLOW_IMAGEinfiniflow/ragflow:v0.17.2-sliminfiniflow/ragflow:nightly-slim
