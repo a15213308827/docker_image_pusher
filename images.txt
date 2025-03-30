@@ -1,2 +1,2 @@
 docker run -d -P m.daocloud.io/docker.io/library/nginx
-docker.m.daocloud.io/.envRAGFLOW_IMAGEinfiniflow/ragflow:v0.17.2-sliminfiniflow/ragflow:nightly-slim
+docker.m.daocloud/.envRAGFLOW_IMAGEinfiniflow/ragflow:v0.17.2-sliminfiniflow/ragflow:nightly-slim
