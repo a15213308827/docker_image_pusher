@@ -1,1 +1,1 @@
-docker.io/infiniflow/ragflow_deps:latest
+m.daocloud.io/docker.io/infiniflow/ragflow_deps:latest 
